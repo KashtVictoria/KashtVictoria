@@ -1,6 +1,5 @@
-- 👋 Привет, меня зовут Виктория!
-- 👀 Я Junior Data analyst.
-- 🌱 Имею опыт работы в банковской сфере.
-- 💞️ Люблю анализировать, систематизировать и сравнивать данные,
-     выявлять закономерности и сторить гипотезы.
-- 🌱 Изучаю Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
+- 👋 Hi, my name is Victoria!
+- 👀 I'm Junior Data analyst.
+- 🌱 I have experience in banking.
+- 💞️ I love to analyze, organize and compare data, identify patterns and build hypotheses.
+- 🌱 I stady Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
