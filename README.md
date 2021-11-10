@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Victoria!
 - 👀 I'm Junior Data analyst.
 - 🌱 I have experience in banking.
-- 💞️ I love to analyze, organize and compare data, identify patterns and build hypotheses.
-- 🌱 I stady Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
+- 💞️ I'm a beginner analyst, love to work with data, identify patterns and build hypotheses.
+- 🌱 I study Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
