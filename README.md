@@ -2,4 +2,4 @@
 I'm a beginner analyst, love to work with data, identify patterns and build hypotheses.
 I hope to soon work on some complex and interesting progect.
 
-Skills: Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
+🎓 Skills: Python(pandas, numpy), SQL, Tableau, matplotlib, seaborn.
